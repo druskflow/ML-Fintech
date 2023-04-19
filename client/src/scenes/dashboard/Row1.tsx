@@ -185,7 +185,7 @@ const Row1 = () => {
               yAxisId="left"
               type="monotone"
               dataKey="profit"
-              stroke={palette.primary.main}
+              stroke={palette.secondary[500]}
             />
             <Line
               yAxisId="right"
