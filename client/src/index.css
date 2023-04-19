@@ -9,3 +9,16 @@ body,
   font-family: "Inter", sans-serif;
   background-color: #1f2026;
 }
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar {
+  background: #242427;
+}
+::-webkit-scrollbar {
+  background: #48494e;
+}
+::-webkit-scrollbar {
+  background: #202126;
+}
